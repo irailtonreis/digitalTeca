@@ -1,0 +1,51 @@
+nav a span{
+   font-weight: bold;
+   font-size: 1.7em;
+   color: #fff;
+}
+.navbar{
+  background: #00796B;
+}
+.nav-link{
+  color: #000;
+}
+.carousel-item img {
+  max-height: 450px;
+}
+
+.container form textarea {
+  resize: none;
+}
+
+div.name-user {
+  color: #fff;
+  font-size: 18px;
+}
+
+footer {
+  display: flex;
+}
+
+footer p {
+  color: #fff;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container  .row .item-livro{
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+ .row .item-livro img{
+  max-width: 200px;
+  height: 320px;
+  width: 100%;
+}
+
+.container  .row .item-livro img:hover{
+    box-shadow: 4px 4px 4px 3px rgba(0, 0, 0, 0.4);
+}
+
+
